@@ -52,15 +52,12 @@ python carfinder.py
 
 ### Main Interface
 
-![Main Interface](screenshots/gui.png)
+![Main Interface](screenshots/GUI.PNG)
 
-### Monitoring Process
-
-![Monitoring](screenshots/running.png)
 
 ### Telegram Notification
 
-![Telegram](screenshots/telegram.png)
+![Telegram](screenshots/Telegram.PNG)
 
 ## Project Purpose
 
