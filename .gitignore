@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+radars.db
+.env
