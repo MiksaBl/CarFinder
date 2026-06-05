@@ -48,16 +48,6 @@ Run the application:
 python carfinder.py
 ```
 
-## Screenshots
-
-### Main Interface
-
-![Main Interface](screenshots/GUI.PNG)
-
-
-### Telegram Notification
-
-![Telegram](screenshots/Telegram.PNG)
 
 ## Project Purpose
 
